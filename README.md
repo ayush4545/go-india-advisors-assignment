@@ -1,8 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a Go India Advisor Assignment.
 
 ## Getting Started
 
-First, run the development server:
+First, clone this repository.
+you have to nodejs install in your system.
+then run blow command in vs code terminal for installing all dependencies
+```bash
+npm instal
+# or 
+npm i
+```
+after installing all dependencies run below command for run development server
 
 ```bash
 npm run dev
