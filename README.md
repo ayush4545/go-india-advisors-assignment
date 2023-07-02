@@ -6,7 +6,7 @@ First, clone this repository.
 you have to nodejs install in your system.
 then run blow command in vs code terminal for installing all dependencies
 ```bash
-npm instal
+npm install
 # or 
 npm i
 ```
